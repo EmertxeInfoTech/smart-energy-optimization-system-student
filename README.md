@@ -1,8 +1,8 @@
 # ⚡ Smart Energy Optimization System
-## VTU Internship — Student Repository
+## Student Repository
 
 **Organisation:** Emertxe Information Technologies
-**Programme:** VTU Internship — IoT and Python
+**Programme:** IoT and Python with Emertxe
 
 ---
 
