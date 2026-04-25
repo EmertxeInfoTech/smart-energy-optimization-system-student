@@ -6,6 +6,16 @@
 
 ---
 
+## Before You Start
+
+New to Python? Complete the self-learning tutorial before Day 1 of the programme:
+
+**[Learn Python for Smart Systems](https://emertxeinfotech.github.io/learn-python-for-smart-systems/)**
+
+It teaches Python from zero — variables, conditions, loops, functions, and classes — using this project as the hands-on example. Runs in your browser, no installation needed. Takes ~8 hours to complete. Start at **Chapter 0**.
+
+---
+
 ## What You Are Building
 
 A Python simulation of an intelligent HVAC control system for a commercial
